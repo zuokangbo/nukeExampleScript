@@ -1,0 +1,2 @@
+#**Nuke script example record**
+-----
