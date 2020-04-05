@@ -1,7 +1,6 @@
 # nuke脚本的学习记录
 --------
-<<<<<<< HEAD
-语言：[english]() 
+语言：[English](https://github.com/zuokangbo/nukeExampleScript '切换制英文')   
 ### 介绍  
 我为什么要记录这个学习的日志，现在网上已经有不少学习python的课程，其中也不乏精品。
 但是，我注意到一个问题，对于我们VFX行业的知识和案例就少了很多，有些几乎找不到相关的案例。
@@ -20,12 +19,3 @@
 
 
 ### 内容还在不断更新，欢迎follow me。
-=======
-语言：[English](https://github.com/zuokangbo/nukeExampleScript '切换制英文')   
-##介绍  
-
-我的学习记录  
-
-###案例目录：  
-
->>>>>>> 03007_zuokangbo

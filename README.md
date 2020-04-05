@@ -1,7 +1,7 @@
 # **Nuke script example record**
 -----
-<<<<<<< HEAD
-language:[中文]()  
+
+language:[中文](https://github.com/zuokangbo/nukeExampleScript/blob/master/READMEzhcn.md)  
 
 ### Introduce  
 Why do I keep this study log,now there are many courses of studying Python on the Internet,There are also many excellent products.
@@ -10,8 +10,4 @@ At the same time, they also take this as their own leak checking and defect fill
 after all, there are too many knowledge points,If it is rarely used, it will be quickly forgotten later.
 Here, we mainly record the content related to nuke for Python.   
 
-The process of learning programming
-=======
-language:[中文](https://github.com/zuokangbo/nukeExampleScript/blob/master/READMEzhcn.md 'this is chinese')
 
->>>>>>> 03007_zuokangbo
