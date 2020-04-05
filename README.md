@@ -1,5 +1,6 @@
 # **Nuke script example record**
 -----
+<<<<<<< HEAD
 language:[中文]()  
 
 ### Introduce  
@@ -10,3 +11,7 @@ after all, there are too many knowledge points,If it is rarely used, it will be 
 Here, we mainly record the content related to nuke for Python.   
 
 The process of learning programming
+=======
+language:[中文](https://github.com/zuokangbo/nukeExampleScript/blob/master/READMEzhcn.md 'this is chinese')
+
+>>>>>>> 03007_zuokangbo
